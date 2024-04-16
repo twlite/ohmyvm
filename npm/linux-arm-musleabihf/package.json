@@ -1,0 +1,18 @@
+{
+  "name": "ohmyvm-linux-arm-musleabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "ohmyvm.linux-arm-musleabihf.node",
+  "files": [
+    "ohmyvm.linux-arm-musleabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
