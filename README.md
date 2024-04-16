@@ -11,7 +11,7 @@ npm install ohmyvm
 ## Usage
 
 ```javascript
-const { OhMyVm } = require('../index.js');
+const { OhMyVm } = require('ohmyvm');
 
 const vm = new OhMyVm();
 
