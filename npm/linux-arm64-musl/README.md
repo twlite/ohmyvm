@@ -1,3 +1,3 @@
-# `ohmyvm-linux-arm64-musl`
+# `@ohmyvm/vm-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `ohmyvm`
+This is the **aarch64-unknown-linux-musl** binary for `@ohmyvm/vm`

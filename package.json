@@ -1,10 +1,10 @@
 {
-  "name": "ohmyvm",
+  "name": "@ohmyvm/vm",
   "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "ohmyvm",
+    "name": "vm",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",
@@ -44,5 +44,7 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.1.1",
+  "repository": "https://github.com/twlite/ohmyvm/",
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine."
 }

@@ -1,3 +1,3 @@
-# `ohmyvm-win32-ia32-msvc`
+# `@ohmyvm/vm-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `ohmyvm`
+This is the **i686-pc-windows-msvc** binary for `@ohmyvm/vm`

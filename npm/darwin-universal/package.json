@@ -1,15 +1,17 @@
 {
-  "name": "ohmyvm-darwin-universal",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-darwin-universal",
+  "version": "0.0.1",
   "os": [
     "darwin"
   ],
-  "main": "ohmyvm.darwin-universal.node",
+  "main": "vm.darwin-universal.node",
   "files": [
-    "ohmyvm.darwin-universal.node"
+    "vm.darwin-universal.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/twlite/ohmyvm/"
 }

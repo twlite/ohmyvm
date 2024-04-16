@@ -1,3 +1,3 @@
-# `ohmyvm-darwin-x64`
+# `@ohmyvm/vm-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `ohmyvm`
+This is the **x86_64-apple-darwin** binary for `@ohmyvm/vm`

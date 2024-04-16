@@ -1,18 +1,20 @@
 {
-  "name": "ohmyvm-android-arm64",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-android-arm64",
+  "version": "0.0.1",
   "os": [
     "android"
   ],
   "cpu": [
     "arm64"
   ],
-  "main": "ohmyvm.android-arm64.node",
+  "main": "vm.android-arm64.node",
   "files": [
-    "ohmyvm.android-arm64.node"
+    "vm.android-arm64.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/twlite/ohmyvm/"
 }

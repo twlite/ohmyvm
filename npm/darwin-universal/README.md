@@ -1,3 +1,3 @@
-# `ohmyvm-darwin-universal`
+# `@ohmyvm/vm-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `ohmyvm`
+This is the **universal-apple-darwin** binary for `@ohmyvm/vm`

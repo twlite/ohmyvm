@@ -1,3 +1,3 @@
-# `ohmyvm-linux-x64-musl`
+# `@ohmyvm/vm-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `ohmyvm`
+This is the **x86_64-unknown-linux-musl** binary for `@ohmyvm/vm`

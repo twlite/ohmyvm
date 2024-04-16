@@ -1,3 +1,3 @@
-# `ohmyvm-linux-riscv64-gnu`
+# `@ohmyvm/vm-linux-riscv64-gnu`
 
-This is the **riscv64gc-unknown-linux-gnu** binary for `ohmyvm`
+This is the **riscv64gc-unknown-linux-gnu** binary for `@ohmyvm/vm`

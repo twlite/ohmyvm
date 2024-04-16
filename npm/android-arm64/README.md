@@ -1,3 +1,3 @@
-# `ohmyvm-android-arm64`
+# `@ohmyvm/vm-android-arm64`
 
-This is the **aarch64-linux-android** binary for `ohmyvm`
+This is the **aarch64-linux-android** binary for `@ohmyvm/vm`

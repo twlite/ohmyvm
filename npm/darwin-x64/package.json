@@ -1,18 +1,20 @@
 {
-  "name": "ohmyvm-darwin-x64",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-darwin-x64",
+  "version": "0.0.1",
   "os": [
     "darwin"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "ohmyvm.darwin-x64.node",
+  "main": "vm.darwin-x64.node",
   "files": [
-    "ohmyvm.darwin-x64.node"
+    "vm.darwin-x64.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/twlite/ohmyvm/"
 }

@@ -1,18 +1,20 @@
 {
-  "name": "ohmyvm-win32-x64-msvc",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-win32-x64-msvc",
+  "version": "0.0.1",
   "os": [
     "win32"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "ohmyvm.win32-x64-msvc.node",
+  "main": "vm.win32-x64-msvc.node",
   "files": [
-    "ohmyvm.win32-x64-msvc.node"
+    "vm.win32-x64-msvc.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/twlite/ohmyvm/"
 }

@@ -1,20 +1,22 @@
 {
-  "name": "ohmyvm-linux-x64-musl",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-linux-x64-musl",
+  "version": "0.0.1",
   "os": [
     "linux"
   ],
   "cpu": [
     "x64"
   ],
-  "main": "ohmyvm.linux-x64-musl.node",
+  "main": "vm.linux-x64-musl.node",
   "files": [
-    "ohmyvm.linux-x64-musl.node"
+    "vm.linux-x64-musl.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
   },
+  "repository": "https://github.com/twlite/ohmyvm/",
   "libc": [
     "musl"
   ]

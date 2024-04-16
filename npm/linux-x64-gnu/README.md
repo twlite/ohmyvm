@@ -1,3 +1,3 @@
-# `ohmyvm-linux-x64-gnu`
+# `@ohmyvm/vm-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `ohmyvm`
+This is the **x86_64-unknown-linux-gnu** binary for `@ohmyvm/vm`

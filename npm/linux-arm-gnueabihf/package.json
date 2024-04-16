@@ -1,18 +1,20 @@
 {
-  "name": "ohmyvm-linux-arm-gnueabihf",
-  "version": "0.0.0",
+  "name": "@ohmyvm/vm-linux-arm-gnueabihf",
+  "version": "0.0.1",
   "os": [
     "linux"
   ],
   "cpu": [
     "arm"
   ],
-  "main": "ohmyvm.linux-arm-gnueabihf.node",
+  "main": "vm.linux-arm-gnueabihf.node",
   "files": [
-    "ohmyvm.linux-arm-gnueabihf.node"
+    "vm.linux-arm-gnueabihf.node"
   ],
+  "description": "OhMyVm is a simple JavaScript virtual machine for node.js powered by Boa JavaScript engine.",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/twlite/ohmyvm/"
 }

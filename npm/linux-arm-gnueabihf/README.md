@@ -1,3 +1,3 @@
-# `ohmyvm-linux-arm-gnueabihf`
+# `@ohmyvm/vm-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `ohmyvm`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@ohmyvm/vm`

@@ -1,3 +1,3 @@
-# `ohmyvm-win32-arm64-msvc`
+# `@ohmyvm/vm-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `ohmyvm`
+This is the **aarch64-pc-windows-msvc** binary for `@ohmyvm/vm`
