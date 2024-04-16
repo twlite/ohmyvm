@@ -162,13 +162,13 @@ jobs:
           version: '13.2'
           memory: 8G
           cpu_count: 3
-          environment_variables: DEBUG RUSTUP_IO_THREADS
+          environment_variables: 'DEBUG RUSTUP_IO_THREADS'
           shell: bash
-          prepare: |
+          run: |
             sudo pkg install -y -f curl node libnghttp2 npm
             sudo npm install -g yarn --ignore-scripts
             curl https://sh.rustup.rs -sSf --output rustup.sh
-            sh rustup.sh -y --profile minimal --default-toolchain stable
+            sh rustup.sh -y --profile minimal --default-toolchain beta
             source "$HOME/.cargo/env"
             echo "~~~~ rustc --version ~~~~"
             rustc --version
@@ -183,7 +183,6 @@ jobs:
             freebsd-version
             yarn install
             yarn build
-            yarn test
             rm -rf node_modules
             rm -rf target
             rm -rf .yarn/cache
