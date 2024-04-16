@@ -60,6 +60,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ohmyvm/vm@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@ohmyvm/vm@workspace:."
+  dependencies:
+    "@napi-rs/cli": "npm:^2.18.1"
+    "@types/node": "npm:^20.12.7"
+    ava: "npm:^6.0.1"
+  languageName: unknown
+  linkType: soft
+
 "@rollup/pluginutils@npm:^4.0.0":
   version: 4.2.1
   resolution: "@rollup/pluginutils@npm:4.2.1"
@@ -1090,16 +1100,6 @@ __metadata:
   checksum: 10c0/1f4df9945120325d041ccf7b86f31e8bcc14e73d29171e37a7903050e96b81323784ec59f93f102ec635bcf6fa8034ba3ea0a8c7e69fa202b87ae3b6cec5a414
   languageName: node
   linkType: hard
-
-"ohmyvm@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "ohmyvm@workspace:."
-  dependencies:
-    "@napi-rs/cli": "npm:^2.18.1"
-    "@types/node": "npm:^20.12.7"
-    ava: "npm:^6.0.1"
-  languageName: unknown
-  linkType: soft
 
 "once@npm:^1.3.0":
   version: 1.4.0

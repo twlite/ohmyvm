@@ -5,13 +5,13 @@ OhMyVm is a simple JavaScript virtual machine for node.js powered by [Boa](https
 ## Installation
 
 ```bash
-npm install ohmyvm
+npm install @ohmyvm/vm
 ```
 
 ## Usage
 
 ```javascript
-const { OhMyVm } = require('ohmyvm');
+const { OhMyVm } = require('@ohmyvm/vm');
 
 const vm = new OhMyVm();
 
