@@ -24,6 +24,7 @@ main();
 `);
 
 const result = vm.eval(code);
+
 // "Hello, World!"
 console.log(result);
 ```
